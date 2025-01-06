@@ -20,8 +20,6 @@
     <div data-turbo-body class="logged-in env-production page-responsive" style="word-wrap: break-word;">
       
 
-
-    <div class="position-relative header-wrapper js-header-wrapper ">
       <a href="#start-of-content" data-skip-target-assigned="false" class="p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
 
       <span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full">
