@@ -41,9 +41,7 @@
 <react-partial
   partial-name="keyboard-shortcuts-dialog"
   data-ssr="false"
-  data-attempted-ssr="false"
->
-  
+
   <script type="application/json" data-target="react-partial.embeddedData">{"props":{"docsUrl":"https://docs.github.com/get-started/accessibility/keyboard-shortcuts"}}</script>
   <div data-target="react-partial.reactRoot"></div>
 </react-partial>
